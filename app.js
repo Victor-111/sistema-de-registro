@@ -1,1 +1,1 @@
-console.log("ejecutando el sistema")
+alert("ejecutando el sistema")
