@@ -2,6 +2,8 @@
 
 -Estado Del Proyecto: En construccion. 
 
-test
+para ejecutar el sistema, debes poner:
 
-code 
+npm install react
+
+
